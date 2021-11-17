@@ -1,6 +1,6 @@
 # Regular Expressions Tutorial
 
-Welcome to the Regular Expressions Tutorial. In this tutorial, I will walk you through the most comprehensive introductory walk-through on regular expressions on GitHub!
+Welcome to the Regular Expressions Tutorial. In this tutorial, I will guide you through the most comprehensive introductory walk-through on regular expressions on GitHub.
 
 ## Summary
 
@@ -198,5 +198,7 @@ There is no special need in our example to use any flag in particular, but they 
 ## Author
 
 Tutorial Created By Damien Luzzo
+
 GitHub: [damienluzzo33](https://github.com/damienluzzo33)
+
 Email Address: [damienluzzo33@gmail.com](mailto:damienluzzo33@gmail.com)
